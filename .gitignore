@@ -1,0 +1,6 @@
+train/
+test/
+valid/
+.ipynb_checkpoints/
+*.ipynb
+.vscode/
