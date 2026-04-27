@@ -1,204 +1,228 @@
 {
   "Apple___Apple_scab": {
-    "solution": "Spray fungicides like Mancozeb or Captan.",
-    "prevention": "Remove fallen leaves and avoid overhead watering.",
-    "organic": "Use neem oil spray regularly."
+    "solution": "Apply fungicides such as Captan or Mancozeb during early growth stages. Remove and destroy infected leaves and fruits to reduce spread. Ensure proper spacing for airflow and avoid overhead irrigation. Repeat spray at regular intervals during wet conditions.",
+    "prevention": "Plant resistant apple varieties and maintain orchard hygiene. Prune trees regularly to improve air circulation. Avoid excess nitrogen fertilization. Monitor plants frequently for early detection.",
+    "organic": "Use neem oil or sulfur sprays weekly. Apply baking soda solution (1 tsp per liter water) to affected leaves. Remove infected plant parts and keep area clean."
   },
+
   "Apple___Black_rot": {
-    "solution": "Apply fungicides and remove infected fruits.",
-    "prevention": "Prune infected branches and maintain hygiene.",
-    "organic": "Use compost tea spray."
+    "solution": "Prune and remove infected branches and fruits immediately. Apply fungicides like Thiophanate-methyl. Maintain proper sanitation in orchard. Ensure good drainage and avoid water stagnation.",
+    "prevention": "Remove fallen debris and mummified fruits. Prune regularly to improve sunlight exposure. Avoid injuries to bark and fruits. Maintain balanced fertilization.",
+    "organic": "Use neem oil sprays regularly. Apply compost tea to improve plant immunity. Remove infected parts manually."
   },
+
   "Apple___Cedar_apple_rust": {
-    "solution": "Use sulfur or fungicide sprays.",
-    "prevention": "Avoid planting near cedar trees.",
-    "organic": "Apply neem oil."
+    "solution": "Apply fungicides such as Myclobutanil during early infection stages. Remove nearby cedar trees if possible. Prune infected leaves and maintain plant hygiene.",
+    "prevention": "Avoid planting apple near cedar trees. Use resistant apple varieties. Monitor during spring season closely.",
+    "organic": "Use sulfur-based sprays. Apply neem oil weekly. Remove infected leaves early."
   },
+
   "Apple___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Maintain proper irrigation and nutrition.",
-    "organic": "Use organic compost."
+    "solution": "No treatment required. Maintain regular care and monitoring.",
+    "prevention": "Ensure proper irrigation, fertilization, and pruning practices.",
+    "organic": "Use compost and organic fertilizers to maintain plant health."
   },
 
   "Blueberry___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Maintain soil acidity and proper watering.",
-    "organic": "Use organic mulch."
+    "solution": "No treatment required. Maintain proper growth conditions.",
+    "prevention": "Ensure proper soil pH and irrigation.",
+    "organic": "Use organic compost and mulch."
   },
 
   "Cherry_(including_sour)___Powdery_mildew": {
-    "solution": "Apply sulfur-based fungicide.",
-    "prevention": "Ensure good air circulation.",
-    "organic": "Use baking soda spray."
+    "solution": "Apply fungicides like sulfur or potassium bicarbonate. Remove infected leaves. Improve air circulation and reduce humidity around plants.",
+    "prevention": "Avoid overcrowding and excessive nitrogen fertilizers. Monitor regularly.",
+    "organic": "Use neem oil or milk spray solution weekly. Maintain dry foliage."
   },
+
   "Cherry_(including_sour)___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Regular pruning and watering.",
-    "organic": "Use compost."
+    "solution": "No treatment needed.",
+    "prevention": "Maintain proper watering and pruning.",
+    "organic": "Use organic compost regularly."
   },
 
   "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
-    "solution": "Apply fungicides like Azoxystrobin.",
-    "prevention": "Crop rotation and residue management.",
-    "organic": "Use neem oil."
+    "solution": "Apply fungicides like Azoxystrobin. Remove infected plant debris. Practice crop rotation to reduce infection.",
+    "prevention": "Use resistant hybrids and avoid dense planting.",
+    "organic": "Use neem oil sprays and maintain field sanitation."
   },
+
   "Corn_(maize)___Common_rust_": {
-    "solution": "Use rust-resistant varieties and fungicides.",
-    "prevention": "Avoid dense planting.",
-    "organic": "Apply neem oil spray."
+    "solution": "Apply fungicides such as Mancozeb or Propiconazole. Remove infected leaves.",
+    "prevention": "Use resistant varieties and avoid excess moisture.",
+    "organic": "Use neem oil and compost tea."
   },
+
   "Corn_(maize)___Northern_Leaf_Blight": {
-    "solution": "Apply fungicides.",
-    "prevention": "Use resistant hybrids.",
-    "organic": "Use compost extract spray."
+    "solution": "Apply fungicides like Mancozeb. Remove infected debris and ensure proper spacing.",
+    "prevention": "Use resistant seeds and rotate crops.",
+    "organic": "Neem oil spray and proper sanitation."
   },
+
   "Corn_(maize)___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Proper fertilization and irrigation.",
+    "solution": "No treatment required.",
+    "prevention": "Maintain soil fertility and irrigation.",
     "organic": "Use organic manure."
   },
 
   "Grape___Black_rot": {
-    "solution": "Apply fungicides like Mancozeb.",
-    "prevention": "Remove infected parts.",
-    "organic": "Use neem oil."
+    "solution": "Apply fungicides like Captan. Remove infected fruits and leaves.",
+    "prevention": "Ensure good airflow and avoid overhead irrigation.",
+    "organic": "Neem oil and sulfur sprays."
   },
+
   "Grape___Esca_(Black_Measles)": {
-    "solution": "Prune infected vines.",
-    "prevention": "Avoid trunk injuries.",
-    "organic": "Apply compost tea."
+    "solution": "Remove infected vines and avoid water stress. No direct cure available.",
+    "prevention": "Use healthy planting material and proper pruning.",
+    "organic": "Apply compost and maintain soil health."
   },
+
   "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
-    "solution": "Use fungicides.",
-    "prevention": "Ensure proper spacing.",
+    "solution": "Apply fungicides like Mancozeb. Remove infected leaves.",
+    "prevention": "Maintain spacing and avoid humidity.",
     "organic": "Neem oil spray."
   },
+
   "Grape___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Regular pruning and watering.",
-    "organic": "Use organic compost."
+    "solution": "No treatment required.",
+    "prevention": "Regular pruning and irrigation.",
+    "organic": "Organic compost."
   },
 
   "Orange___Haunglongbing_(Citrus_greening)": {
-    "solution": "Remove infected trees and control insects.",
-    "prevention": "Use disease-free plants.",
-    "organic": "Neem oil for pest control."
+    "solution": "Remove infected trees immediately. Control insect vectors using pesticides.",
+    "prevention": "Use disease-free planting material and monitor psyllid insects.",
+    "organic": "Neem oil for vector control."
   },
 
   "Peach___Bacterial_spot": {
-    "solution": "Use copper-based bactericide.",
-    "prevention": "Avoid overhead irrigation.",
-    "organic": "Neem oil spray."
+    "solution": "Apply copper-based bactericides. Remove infected leaves.",
+    "prevention": "Avoid overhead irrigation and use resistant varieties.",
+    "organic": "Use neem oil and compost tea."
   },
+
   "Peach___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Proper pruning and care.",
-    "organic": "Use compost."
+    "solution": "No treatment needed.",
+    "prevention": "Maintain proper irrigation.",
+    "organic": "Organic manure."
   },
 
   "Pepper,_bell___Bacterial_spot": {
-    "solution": "Apply copper sprays.",
-    "prevention": "Use disease-free seeds.",
-    "organic": "Neem oil."
+    "solution": "Apply copper sprays. Remove infected leaves.",
+    "prevention": "Avoid wet leaves and overcrowding.",
+    "organic": "Neem oil spray."
   },
+
   "Pepper,_bell___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Maintain soil fertility.",
+    "solution": "No treatment required.",
+    "prevention": "Proper watering and spacing.",
     "organic": "Use compost."
   },
 
   "Potato___Early_blight": {
-    "solution": "Apply Mancozeb fungicide.",
-    "prevention": "Avoid water stress.",
+    "solution": "Apply fungicides like Chlorothalonil. Remove infected leaves.",
+    "prevention": "Rotate crops and avoid moisture stress.",
     "organic": "Neem oil spray."
   },
+
   "Potato___Late_blight": {
-    "solution": "Use copper fungicides.",
-    "prevention": "Ensure good drainage.",
-    "organic": "Use baking soda spray."
+    "solution": "Apply fungicides like Metalaxyl. Remove infected plants immediately.",
+    "prevention": "Avoid high humidity and overcrowding.",
+    "organic": "Use copper sprays."
   },
+
   "Potato___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Maintain proper irrigation.",
-    "organic": "Use organic manure."
+    "solution": "No treatment required.",
+    "prevention": "Maintain soil health.",
+    "organic": "Organic compost."
   },
 
   "Raspberry___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Regular pruning.",
+    "solution": "No treatment required.",
+    "prevention": "Proper pruning and irrigation.",
     "organic": "Use compost."
   },
 
   "Soybean___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Crop rotation.",
-    "organic": "Use organic fertilizers."
+    "solution": "No treatment required.",
+    "prevention": "Maintain proper soil fertility.",
+    "organic": "Organic manure."
   },
 
   "Squash___Powdery_mildew": {
-    "solution": "Apply sulfur fungicide.",
-    "prevention": "Ensure airflow.",
+    "solution": "Apply sulfur or fungicides. Remove infected leaves.",
+    "prevention": "Ensure proper airflow.",
     "organic": "Neem oil spray."
   },
 
   "Strawberry___Leaf_scorch": {
-    "solution": "Use fungicides.",
-    "prevention": "Remove infected leaves.",
-    "organic": "Neem oil."
+    "solution": "Remove infected leaves and apply fungicides.",
+    "prevention": "Avoid overhead watering.",
+    "organic": "Neem oil spray."
   },
+
   "Strawberry___healthy": {
-    "solution": "No disease detected.",
-    "prevention": "Proper watering.",
-    "organic": "Use compost."
+    "solution": "No treatment required.",
+    "prevention": "Maintain irrigation.",
+    "organic": "Organic compost."
   },
 
   "Tomato___Bacterial_spot": {
-    "solution": "Use copper bactericide.",
-    "prevention": "Avoid leaf wetness.",
+    "solution": "Apply copper sprays. Remove infected leaves.",
+    "prevention": "Avoid wet conditions.",
     "organic": "Neem oil spray."
   },
+
   "Tomato___Early_blight": {
-    "solution": "Apply Mancozeb.",
-    "prevention": "Crop rotation.",
-    "organic": "Neem oil."
-  },
-  "Tomato___Late_blight": {
-    "solution": "Use copper fungicide.",
-    "prevention": "Avoid humidity.",
-    "organic": "Baking soda spray."
-  },
-  "Tomato___Leaf_Mold": {
-    "solution": "Use fungicides.",
-    "prevention": "Improve ventilation.",
-    "organic": "Neem oil."
-  },
-  "Tomato___Septoria_leaf_spot": {
-    "solution": "Apply fungicide.",
-    "prevention": "Remove infected leaves.",
-    "organic": "Neem oil."
-  },
-  "Tomato___Spider_mites Two-spotted_spider_mite": {
-    "solution": "Use miticides.",
-    "prevention": "Maintain humidity.",
+    "solution": "Apply fungicides like Mancozeb. Remove infected leaves.",
+    "prevention": "Rotate crops and avoid moisture.",
     "organic": "Neem oil spray."
   },
+
+  "Tomato___Late_blight": {
+    "solution": "Apply fungicides like Metalaxyl. Remove infected plants.",
+    "prevention": "Avoid humidity and overcrowding.",
+    "organic": "Copper sprays."
+  },
+
+  "Tomato___Leaf_Mold": {
+    "solution": "Apply fungicides and improve ventilation.",
+    "prevention": "Reduce humidity.",
+    "organic": "Neem oil spray."
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "solution": "Apply fungicides and remove infected leaves.",
+    "prevention": "Avoid wet leaves.",
+    "organic": "Neem oil spray."
+  },
+
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "solution": "Use miticides or insecticidal soap.",
+    "prevention": "Maintain humidity and monitor pests.",
+    "organic": "Neem oil spray."
+  },
+
   "Tomato___Target_Spot": {
-    "solution": "Apply fungicide.",
-    "prevention": "Avoid overcrowding.",
-    "organic": "Neem oil."
+    "solution": "Apply fungicides and remove infected parts.",
+    "prevention": "Ensure airflow.",
+    "organic": "Neem oil spray."
   },
+
   "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
-    "solution": "Control whiteflies.",
+    "solution": "Remove infected plants and control whiteflies.",
     "prevention": "Use resistant varieties.",
-    "organic": "Neem oil."
+    "organic": "Neem oil for insect control."
   },
+
   "Tomato___Tomato_mosaic_virus": {
-    "solution": "Remove infected plants.",
-    "prevention": "Disinfect tools.",
-    "organic": "Use milk spray."
+    "solution": "Remove infected plants immediately.",
+    "prevention": "Disinfect tools and avoid contact spread.",
+    "organic": "Use resistant varieties and maintain hygiene."
   },
+
   "Tomato___healthy": {
-    "solution": "No disease detected.",
+    "solution": "No treatment required.",
     "prevention": "Maintain proper care.",
     "organic": "Use compost."
   }
